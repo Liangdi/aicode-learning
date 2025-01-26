@@ -21,7 +21,7 @@ export default defineConfig({
   },
   plugins:[
     ghPages({
-        repo:'git@github.com:Liangdi/roocode-learning.git',
+        repo:'git@github.com:Liangdi/aicode-learning.git',
         branch:'gh-pages',
         siteBase:'/'
     })
